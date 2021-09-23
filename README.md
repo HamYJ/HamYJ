@@ -1,4 +1,4 @@
-## Hi, I'm YounJin ☁️🐚
+## Hi, I'm YounJin ☁
 
 <ul>
  <li>This is YounJ00's GitHub.
