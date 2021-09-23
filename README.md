@@ -1,7 +1,7 @@
-## Hi, I'm YoonJin ☁️
+## Hi, I'm YounJin ☁️🐚
 
 <ul>
- <li>This is YoonJ00's GitHub.
+ <li>This is YounJ00's GitHub.
 </li>
 </ul>
 
@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounJ00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**YoonJ00/YoonJ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YounJ00/YounJ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
