@@ -1,8 +1,8 @@
-## Hi, I'm YounJin Ham☁
+## Hi, I'm YounJin Ham 😊
 
 <ul>
- <li>This is YounJ00's GitHub.
-</li>
+ <li>This is YounJ00's GitHub.</li>
+ <li>I'm currently learning JavaScript ...</li>
 </ul>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YoonJ00)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounJ00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
