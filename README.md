@@ -1,5 +1,3 @@
-## Hi, I'm YounJin Ham 😊
-
 <ul>
  <li>This is YounJ00's GitHub.</li>
  <li>I'm currently learning JavaScript, ReactJS ...</li>
