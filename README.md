@@ -24,7 +24,7 @@
 	<a href="">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="YounJ00.github.io">
+	<a href="https://younj00.github.io/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="">
@@ -35,7 +35,6 @@
 	</a>
 	<br>
 </div>
-<br>
 <br>
 
 <!--
