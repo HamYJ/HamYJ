@@ -21,7 +21,22 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 Design 🎨</p>
+</div>
+<div align=center>
+	<a href="">
+		<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+	</a>
+	<a href="https://younj00.github.io/">
+		<img src="https://img.shields.io/badge/Adobe Xd-EA7100?style=flat&logo=AdobeXd&logoColor=white" />
+	</a>
+	<a href="">
+		<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
+	</a>
+	<br>
+</div>
+<br>
+<p>👩‍💻 SNS & Portfolio 👩‍💻</p>
 </div>
 <div align=center>
 	<a href="">
@@ -38,7 +53,6 @@
 	</a>
 	<br>
 </div>
-<br>
 
 <!--
 **YounJ00/YounJ00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
