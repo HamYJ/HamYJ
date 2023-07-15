@@ -27,11 +27,11 @@
 	<a href="">
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	</a>
-	<a href="https://younj00.github.io/">
-		<img src="https://img.shields.io/badge/AdobeXd-EA7100?style=flat&logo=AdobeXd&logoColor=white" />
+	<a href="">
+		<img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat&logo=AdobeXd&logoColor=white" />
 	</a>
 	<a href="">
-		<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
+		<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
 	</a>
 	<br>
 </div>
