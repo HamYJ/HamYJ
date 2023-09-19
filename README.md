@@ -15,10 +15,6 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
  <br>
  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styled components&logoColor=white" />
- <br>
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
- <img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=Dart&logoColor=white" />
 		
 </div>
 <br>
